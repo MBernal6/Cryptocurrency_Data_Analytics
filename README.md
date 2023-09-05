@@ -78,10 +78,11 @@ Durante nuestro análisis, se realizo los siguientes pasos:
 
 ## **III. Principales indicadores**
 Los indicadores o KPI´s en los cuales se enfoca este proceso de análisis son: 
-1. Variación Porcentual del Precio diario: Con este KPI se busca obtener información sobre como fue el comportamiento del precio de una criptomoneda en relación al precio al momento de la evaluación.
+1. Variación del precio: Con este KPI se busca visualizar el comportamiento del precio actual de una criptomoneda en relación al precio máximo alcanzado por la misma.
 2. Volumen Promedio Diario de Negociación: El volumen de negociación diario puede indicar el nivel de actividad y liquidez en el mercado para una criptomoneda específica.
-3. Ratio Precio/Capitalización de Mercado: Este KPI puede ayudar a evaluar si una criptomoneda está sobrevalorada, subvalorada o valorada en línea con su capitalización de mercado en comparación con otras monedas en el mercado.
-
+3. Volatilidad de la criptomoneda: Este KPI puede ayudar a evaluar si una criptomoneda se considera riesgosa en relación a sus rendimientos diarios y el comportamiento de otras criptomonedas.
+A continuación se muestra el Dashboard de los KPI´s
+![Dashboard](src/image.png)
 ## **Conclusiones**
 - El análisis de las desviaciones estandar de los precios de las criptomonedas las califica como activos de alta volatilidad y por lo tanto riesgosos. Sin embargo, sumamente rentables en el largo tiempo. 
 - De acuerdo a las desviaciones estandar del volúmen y la capitalización de mercado las criptomonedas muestran un comportamiento con mucha variabilidad, posteriormente en los gráficos se puede apreciar que estos cambios suelen ser estacionales y siguen la tendencia de las criptomonedas más influyentes. 
